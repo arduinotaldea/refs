@@ -21,3 +21,7 @@ Ejemplo de integración de las librerías PID y TimerOne con el modo sleep. Se g
  - **sketch_tanqueolas.ino** código fuente para Arduino
  - **libraries.7z** librerías utilizadas en el sketch
  - **graph_matlab.m** script de Matlab para graficar la información recibida a través del puerto serie
+ 
+## Ratones, teclados, joysticks...
+
+http://sindominio.net/hackmeeting/wiki/Discusi%C3%B3n:2015/Nodos/Arduino_como_interfaz_con_el_ordenador
